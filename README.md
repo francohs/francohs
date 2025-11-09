@@ -62,6 +62,9 @@ JavaScript (Expert)  |  Python  |  C++  |  OpenCV  |  MQTT  |  IoT  |  Electron
 **Full-stack web application** for supermarket automation  
 _Vue.js, Quasar, Pinia, Node.js, Express, MongoDB, Socket.IO_
 
+[![Frontend Repo](https://img.shields.io/badge/Frontend-Repository-blue?style=flat-square&logo=github)](https://github.com/francohs/cornergo-admin-public)
+[![Backend Repo](https://img.shields.io/badge/Backend-Repository-green?style=flat-square&logo=github)](https://github.com/francohs/cornergo-api-public)
+
 - Reduced operational workload by **87.5%** (8 hours → 1 hour)
 - Decreased inventory errors by **60%** with real-time tracking
 - Processed **12K+ monthly transactions** with 8 concurrent users
@@ -71,6 +74,8 @@ _Vue.js, Quasar, Pinia, Node.js, Express, MongoDB, Socket.IO_
 
 **Desktop point-of-sale** with asynchronous queue architecture  
 _Electron, Node.js, Express, MongoDB_
+
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/francohs/cornergo-pos-public)
 
 - Achieved **90% checkout improvement** (10s → 1s response time)
 - **400+ daily transactions** with **7+ years of production uptime**
