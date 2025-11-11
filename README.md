@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 Full Stack Engineer | Problem Solver | Builder
+## 🚀 Full Stack Engineer | Ex-Founder | Building Scalable Systems | Node.js · React · Vue
 
 I'm a **Full Stack Engineer** passionate about building production systems that deliver real business impact. With 12+ years of experience, I founded, developed, and successfully sold a profitable tech business while building systems that achieved:
 
